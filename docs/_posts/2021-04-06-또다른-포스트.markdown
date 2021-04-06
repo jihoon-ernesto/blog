@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "로컬 PC에서 마크다운 작성"
+date:   2021-04-06 18:40:13 +0900
+categories: posting test
+---
+이 포스트는 로컬 PC에서 작성하고 git push 로 올린 것입니다.
+제대로 나오는지 한번 보죠.
