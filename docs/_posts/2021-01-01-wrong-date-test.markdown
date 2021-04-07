@@ -2,7 +2,7 @@
 layout: post
 title:  "date 틀리게 markdown 작성.. 과연?"
 date:   2021-03-03 17:21:01 +0900
-draft: true
+draft: "yes"
 categories: posting test
 ---
 - 이 포스트는 로컬 PC에서 작성하고 git push 로 올린 것입니다.
@@ -11,4 +11,4 @@ categories: posting test
 - 그러면 실제로는 어떻게 표시되나 한번 봅시다!
 
 - ~~추가로, published 옵션을 false 로 줬습니다. 과연 그러면 어떻게 될까요?~~
-- 이번에는 draft 옵션을 true로 해봅시다.
+- 이번에는 draft 옵션을 "yes"로 해봅시다.
