@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "date 빼먹고 markdown 작성.. 과연?"
+title:  "date 틀리게 markdown 작성.. 과연?"
 date:   2021-03-03 17:21:01 +0900
 categories: posting test
 ---
