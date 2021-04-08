@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-with-comments
 title:  "테스트 - GitHub 사이트에서 직접 작성/수정"
 date:   2021-04-06 17:21:01 +0900
 categories: test
