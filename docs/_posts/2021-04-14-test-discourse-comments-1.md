@@ -1,6 +1,6 @@
 ---
 layout: post-with-discourse-comments
-title:  "댓글 테스트 - discourse"
+title:  "댓글 테스트 1 - discourse"
 categories: posting test
 ---
 고양이 사진 재탕입니다. ㅋ
