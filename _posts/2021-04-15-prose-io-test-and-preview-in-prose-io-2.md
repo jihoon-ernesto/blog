@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Prose.io test - 댓글과 이미지 (and Preview in Prose.io) #2'
 ---
 ## Hello
