@@ -1,6 +1,6 @@
 ---
 layout: post-with-comments
-published: false
+published: true
 title: Prose.io 테스트 - layout 미리 지정 시
 ---
 ## layout 지정 시의 테스트
