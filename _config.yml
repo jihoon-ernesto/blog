@@ -46,10 +46,10 @@ prose:
   #   - /_layouts
   metadata:
     _posts:
-      # - name: "layout"
-      #   field:
-      #     element: "hidden"
-      #     value: "post-with-comments"
+      - name: "layout"
+        field:
+          # element: "hidden"
+          value: "post_with_comments"
       - name: "title"
         field:
           element: "text"
