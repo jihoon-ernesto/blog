@@ -34,6 +34,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Prose.io settings
+# ref) https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  # rooturl: '_posts'
+  # siteurl: 'https://jihoon-ernesto.github.io/blog/'
+  media: 'assets'
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
