@@ -48,7 +48,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "text"
+          element: "hidden"
           value: "post_with_comments"
       - name: "title"
         field:
