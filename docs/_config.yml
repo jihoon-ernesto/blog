@@ -37,8 +37,8 @@ plugins:
 # Prose.io settings
 # ref) https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  # rooturl: '_posts'
-  # siteurl: 'https://jihoon-ernesto.github.io/blog/'
+  rooturl: '_posts'
+  siteurl: 'https://jihoon-ernesto.github.io/blog/'
   media: 'assets'
   ignore:
     - index.md
