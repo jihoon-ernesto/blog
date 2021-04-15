@@ -1,6 +1,6 @@
 ---
 layout: post-with-comments
-published: false
+published: true
 title: 'Prose.io test - 댓글과 이미지 #1'
 ---
 ## 이미지도 넣고, 댓글도 달고, 제목도 잘 들어가는지
