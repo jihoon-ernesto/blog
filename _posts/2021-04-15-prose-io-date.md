@@ -1,6 +1,6 @@
 ---
 date: '2021-04-15 20:14 +0900'
-published: false
+published: true
 title: Prose.io - date 테스트
 ---
 ## metadata에 date를 넣을 때
