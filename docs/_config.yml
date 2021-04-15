@@ -40,6 +40,10 @@ prose:
   # rooturl: '_posts'
   # siteurl: 'https://jihoon-ernesto.github.io/blog/'
   media: 'assets'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
