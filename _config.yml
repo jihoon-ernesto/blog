@@ -35,6 +35,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post-with-comments"
+
 # Prose.io settings
 # ref) https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
